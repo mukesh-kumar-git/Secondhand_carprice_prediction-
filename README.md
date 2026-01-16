@@ -133,7 +133,7 @@ This project is open-source and free to use for learning and experimentation.
 
 Below is the Gradio-based interface deployed on Hugging Face Spaces, allowing users to input car details and get real-time price predictions.
 
-![Second-Hand Car Price Prediction Gradio UI](screenshots/gradio_ui.png)
+![Second-Hand Car Price Prediction Gradio UI](Screenshots/Gradio_UI.png)
 
 ---
 ## 🙌 Acknowledgements
