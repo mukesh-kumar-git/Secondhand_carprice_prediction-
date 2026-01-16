@@ -1,9 +1,3 @@
-Perfect 👍
-Here’s a **clean, professional GitHub README** rewritten specifically for **Gradio + Hugging Face deployment**, keeping it simple, attractive, and recruiter-friendly.
-
-You can **copy-paste this directly** into your `README.md`.
-
----
 
 # 🚗 Second-Hand Car Price Prediction
 
@@ -15,7 +9,7 @@ Built using **Python + Random Forest**, powered by **Gradio UI**, and **deployed
 ## 🌐 Live Demo
 
 🔗 **Hugging Face Space:**
-👉 *Add your HF Space link here*
+👉 *https://tinyurl.com/car-price-predict*
 
 Users can enter car details and instantly get a predicted resale price.
 
@@ -135,7 +129,13 @@ This project is deployed using **Hugging Face Spaces** with:
 This project is open-source and free to use for learning and experimentation.
 
 ---
+## 🚀 Live Demo Preview
 
+Below is the Gradio-based interface deployed on Hugging Face Spaces, allowing users to input car details and get real-time price predictions.
+
+![Second-Hand Car Price Prediction Gradio UI](screenshots/gradio_ui.png)
+
+---
 ## 🙌 Acknowledgements
 
 * Scikit-learn documentation
