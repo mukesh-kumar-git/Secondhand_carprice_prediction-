@@ -36,7 +36,6 @@ model = RandomForestRegressor(
     random_state=42,
     n_jobs=-1
 )
-
 model.fit(X_train, y_train)
 
 # SAFE ENCODER
@@ -162,3 +161,4 @@ with gr.Blocks(
     )
 
 app.launch(share=True)
+
